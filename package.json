@@ -1,0 +1,13 @@
+{
+  "name": "page-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel": "^6.3.26",
+    "webpack": "^1.12.9"
+  }
+}
